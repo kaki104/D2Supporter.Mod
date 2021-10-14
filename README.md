@@ -35,3 +35,6 @@ Both single player and multiplayer are supported.
 6. Check 'Additional...' and enter "-mod d2supporter -txt". 
 ![Alt text](h6.png "Optional title")
 7. Press done and run the game. If mod is applied, the gamma value adjustment work performed at the first execution will proceed. 
+
+### d2supporter Windows Store app
+https://d2supporter.tistory.com/
