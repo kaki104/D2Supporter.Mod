@@ -10,6 +10,8 @@ Both single player and multiplayer are supported.
 1. Add Korean
 2. Bug fix
 
+Click [here](https://kaki104.tistory.com/790) for Korean help. 
+
 ### V 0.9
 
 1. Rune : (Number) + Color
