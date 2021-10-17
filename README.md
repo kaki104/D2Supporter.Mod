@@ -6,6 +6,9 @@ Both single player and multiplayer are supported.
 ##### However, use it at your own risk. I am not responsible if any problems arise.
 
 
+## V 0.9.3
+1. Add Korean
+2. Bug fix
 
 ### V 0.9
 
